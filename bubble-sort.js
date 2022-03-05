@@ -42,9 +42,5 @@ module.exports = bubbleSort;
 
   return toBeSortedArray;
 }
-// Big O Notation
-// Worse Case: ?
-// Average Case: ?
-// Best Case: ?
 
 module.exports = bubbleSort;

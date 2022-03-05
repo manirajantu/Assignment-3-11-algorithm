@@ -37,10 +37,6 @@ function bubbleSort(array) {
 // Average Case: O (1 + N)
 // Best Case: O (N)
 
-module.exports = bubbleSort;
-
-
-  return toBeSortedArray;
 }
 
 module.exports = bubbleSort;
